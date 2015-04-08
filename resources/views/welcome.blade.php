@@ -2,7 +2,7 @@
 
 @section('content')
 	<div class="container">
-		<h1>Jim Baldwin</h1>
+		<h1>Jim Baldwin &ndash; Work Samples</h1>
 		<ul class="section">
 			<li>
 				<a href="http://todo.jimbaldwin.net">TODO app in Laravel 5</a> &ndash; In progress, see todo list in app for future enhancements.
