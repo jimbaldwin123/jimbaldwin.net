@@ -3,6 +3,7 @@
 @section('content')
 	<div class="container">
 		<h1>Jim Baldwin &ndash; Work Samples</h1>
+		<h2 class="demo">PHP</h2>
 		<ul class="section">
 			<li>
 				<a href="http://todo.jimbaldwin.net">TODO app in Laravel 5</a> &ndash; In progress, see todo list in app for future enhancements.
@@ -16,8 +17,11 @@
 					<li><a href="https://github.com/jimbaldwin123/rest-api">GitHub repo</a></li>
 				</ul>
 			</li>
+		</ul>
+		<h2 class="demo">JavaScript</h2>
+		<ul class="section">
 			<li>JSON-driven JavaScript animation, plain JS w/o jQuery &ndash; Annotated software product screen shots
-				<br>(legacy pages, nav layout and lightbox broken)
+				<br>(legacy pages, nav layout and lightbox are broken)
 				<br>Hover over "info" arrows for callouts.
 				<ul>
 					<li><a href="http://utility2012.apcon.com/products/enterpoint.php">Animated Screen Shot 1</a></li>
@@ -28,11 +32,15 @@
 					</li>
 				</ul>
 			</li>
+			<li><a href="/switchbuilder">jQuery/AJAX Demo - Screencast</a></li>
+		</ul>
+		<h2 class="demo">Documentation</h2>
+		<ul class="section">
 			<li><a href="docs/Support_Site_Requirements.docx">Support Site Requirements</a>
 				&ndash; Requirements for customer support site as-built, intended to initiate stakeholder redesign discussion.
 			</li>
 			<li><a href="docs/Support_Site_Screens.docx">Support Site Screens</a> &ndash; Some jQuery/AJAX functionality</li>
-			<li><a href="/switchbuilder">jQuery/AJAX Demo - Screencast</a></li>
+			
 		</ul>
 	</div>
 @endsection
