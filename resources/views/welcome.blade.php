@@ -16,11 +16,13 @@
 					<li><a href="https://github.com/jimbaldwin123/rest-api">GitHub repo</a></li>
 				</ul>
 			</li>
-			<li>JSON-driven JavaScript animation, plain JS w/o jQuery &ndash; Annotated software product screen shots<br>(legacy pages, nav layout and lightbox broken)</li>
+			<li>JSON-driven JavaScript animation, plain JS w/o jQuery &ndash; Annotated software product screen shots
+			<br>(legacy pages, nav layout and lightbox broken)
+			<br>Hover over "info" arrows for callouts.</li>
 			<ul>
-				<li><a href="http://utlity2012.apcon.com/products/enterpoint.php">Animated Screen Shot 1</a></li>
-				<li><a href="http://utlity2012.apcon.com/products/webx.php">Animated Screen Shot 2</a></li>
-				<li><a href="http://utlity2012.apcon.com/products/netvis.php">Animated Screen Shot 3</a></li>
+				<li><a href="http://utility2012.apcon.com/products/enterpoint.php">Animated Screen Shot 1</a></li>
+				<li><a href="http://utility2012.apcon.com/products/webx.php">Animated Screen Shot 2</a></li>
+				<li><a href="http://utility2012.apcon.com/products/netvis.php">Animated Screen Shot 3</a></li>
 				<li>
 					<a href="docs/JSON-callout.zip">Code</a>
 				</li>
