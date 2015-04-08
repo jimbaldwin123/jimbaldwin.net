@@ -27,7 +27,9 @@
 					<a href="docs/JSON-callout.zip">Code</a>
 				</li>
 			</ul>
-			<li><a href="docs/Support_Site_Requirements.docx">Support Site Requirements</a></li>
+			<li><a href="docs/Support_Site_Requirements.docx">Support Site Requirements</a>
+				&ndash; Requirements for customer support site as-built, intended to initiate stakeholder redesign discussion.
+			</li>
 			<li><a href="docs/Support_Site_Screens.docx">Support Site Screens</a></li>
 			<li><a href="/switchbuilder">jQuery/AJAX Demo - Screencast</a></li>
 		</ul>
