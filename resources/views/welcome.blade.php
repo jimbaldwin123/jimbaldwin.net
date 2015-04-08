@@ -3,7 +3,7 @@
 @section('content')
 	<div class="container">
 		<h1>Jim Baldwin</h1>
-		<ul>
+		<ul class="section">
 			<li>
 				<a href="http://todo.jimbaldwin.net">TODO app in Laravel 5</a> &ndash; In progress, see todo list in app for future enhancements.
 				<ul>
@@ -17,16 +17,17 @@
 				</ul>
 			</li>
 			<li>JSON-driven JavaScript animation, plain JS w/o jQuery &ndash; Annotated software product screen shots
-			<br>(legacy pages, nav layout and lightbox broken)
-			<br>Hover over "info" arrows for callouts.</li>
-			<ul>
-				<li><a href="http://utility2012.apcon.com/products/enterpoint.php">Animated Screen Shot 1</a></li>
-				<li><a href="http://utility2012.apcon.com/products/webx.php">Animated Screen Shot 2</a></li>
-				<li><a href="http://utility2012.apcon.com/products/netvis.php">Animated Screen Shot 3</a></li>
-				<li>
-					<a href="docs/JSON-callouts.zip">Code</a>
-				</li>
-			</ul>
+				<br>(legacy pages, nav layout and lightbox broken)
+				<br>Hover over "info" arrows for callouts.
+				<ul>
+					<li><a href="http://utility2012.apcon.com/products/enterpoint.php">Animated Screen Shot 1</a></li>
+					<li><a href="http://utility2012.apcon.com/products/webx.php">Animated Screen Shot 2</a></li>
+					<li><a href="http://utility2012.apcon.com/products/netvis.php">Animated Screen Shot 3</a></li>
+					<li>
+						<a href="docs/JSON-callouts.zip">Code</a>
+					</li>
+				</ul>
+			</li>
 			<li><a href="docs/Support_Site_Requirements.docx">Support Site Requirements</a>
 				&ndash; Requirements for customer support site as-built, intended to initiate stakeholder redesign discussion.
 			</li>

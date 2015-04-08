@@ -6288,11 +6288,12 @@ button.close {
 body,
 label,
 .checkbox label {
+  font-weight: 300;
   color: #333;
 }
 a:hover {
   text-decoration: underline;
 }
-ul.section > li {
-  margin-bottom: 10px;
+li {
+  height: 20px;
 }
