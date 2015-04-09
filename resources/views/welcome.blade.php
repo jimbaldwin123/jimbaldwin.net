@@ -20,7 +20,7 @@
 		</ul>
 		<h2 class="demo">JavaScript</h2>
 		<ul class="section">
-			<li>JSON-driven JavaScript animation, plain JS w/o jQuery &ndash; Annotated software product screen shots
+			<li>JSON-driven JavaScript animation &ndash; Annotated software product screen shots
 				<br>(Note: these are legacy pages outside my control, nav layout and lightbox are broken.)
 				<br>Hover over "info" arrows for callouts.
 				<ul>
