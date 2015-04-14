@@ -6296,8 +6296,12 @@ a:hover {
 ul.section > li {
   margin-bottom: 10px;
 }
-div.background > h1 {
+div.background > h1,
+div.background > h2 {
   color: #fff;
+}
+div.background > h2 {
+  margin-top: 50px;
 }
 h2.demo {
   font-size: 20px;

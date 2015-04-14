@@ -58,7 +58,8 @@
 	</nav>
 
 	<div class="background">
-		<h1>Jim Baldwin</h1>
+		<h1>Jim Baldwin &ndash; Web Development</h1>
+		
 	</div>
 	@yield('content')
 
