@@ -6296,6 +6296,22 @@ a:hover {
 ul.section > li {
   margin-bottom: 10px;
 }
+div.background > h1 {
+  color: #fff;
+}
 h2.demo {
   font-size: 20px;
+}
+.background {
+  background-image: url("../images/014-mark-rothko-theredlist.jpg");
+  background-repeat: no-repeat;
+  height: 250px;
+  background-size: 100%;
+  z-index: -1;
+  margin: -90px 0 0 0;
+  padding: 70px 0 0 50px;
+}
+.resume {
+  width: 80%;
+  padding-top: 50px;
 }

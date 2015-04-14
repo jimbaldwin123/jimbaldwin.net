@@ -12,9 +12,13 @@
 */
 
 Route::get('/', 'WelcomeController@index');
+Route::get('/work', 'WelcomeController@work');
+Route::get('/resume', 'WelcomeController@resume');
 Route::get('/switchbuilder',function(){
     return View::make('switchbuilder');
 });
+
+
 
 Route::get('home', 'HomeController@index');
 
