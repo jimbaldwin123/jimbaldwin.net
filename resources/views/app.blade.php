@@ -5,7 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Jim Baldwin - LAMP Stack Web Developer</title>
-	<meta name="description" content="LAMP Stack Web Developer in Portland, OR. Web Sites, REST development"
+	<meta name="description" content="LAMP Stack Web Developer in Portland, OR. Web Sites, REST development" >
 	<link href="{{ asset('/css/app.css') }}" rel="stylesheet">
 
 	<!-- Fonts -->
