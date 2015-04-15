@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Jim Baldwin - LAMP Stack Web Developer</title>
+	<title>Jim Baldwin | PHP Developer | LAMP Stack Web Developer | Portland, OR</title>
 	<meta name="description" content="LAMP Stack Web Developer in Portland, OR. Web Sites, REST development" >
 	<link href="{{ asset('/css/app.css') }}" rel="stylesheet">
 
