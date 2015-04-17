@@ -9,7 +9,8 @@
 	<link href="{{ asset('/css/app.css') }}" rel="stylesheet">
 	<link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
 	<style type="text/css">
-		body{ font-family:jeannie_font;}
+		body { font-family: arial, sans-serif;}
+		h1 { font-family: jeannie_font, sans-serif;}
 	</style>
 	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -58,7 +59,7 @@
 	</nav>
 
 	<div class="background">
-		<h1>Jim Baldwin &ndash; Web Developer</h1>
+		<h1>Jim Baldwin - Web Developer</h1>
 		
 	</div>
 	@yield('content')

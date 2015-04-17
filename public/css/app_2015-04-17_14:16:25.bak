@@ -6287,11 +6287,10 @@ button.close {
 }
 @font-face {
   font-family: jeannie_font;
-  src: url('/fonts/Jeannie.ttf') format('truetype');
-}
-@font-face {
-  font-family: Village;
-  src: url('/fonts/Village.ttf') format('truetype');
+  src: local(jeannie_font), url('fonts/Jeannie.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-variant: normal;
 }
 body,
 label,

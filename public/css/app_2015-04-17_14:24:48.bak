@@ -6289,10 +6289,6 @@ button.close {
   font-family: jeannie_font;
   src: url('/fonts/Jeannie.ttf') format('truetype');
 }
-@font-face {
-  font-family: Village;
-  src: url('/fonts/Village.ttf') format('truetype');
-}
 body,
 label,
 .checkbox label {
