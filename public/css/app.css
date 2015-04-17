@@ -6285,6 +6285,10 @@ button.close {
     display: none !important;
   }
 }
+@font-face {
+  font-family: jeannie_font;
+  src: local(jeannie_font), url('fonts/Jeannie.ttf') format('opentype');
+}
 body,
 label,
 .checkbox label {
