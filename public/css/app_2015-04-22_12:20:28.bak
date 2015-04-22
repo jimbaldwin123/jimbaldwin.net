@@ -6328,7 +6328,7 @@ h2.demo {
   padding-top: 50px;
 }
 .rwd-break {
-  display: none;
+  display: block;
 }
 @media (max-width: 768px) {
   h1 {
