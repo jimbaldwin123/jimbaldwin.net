@@ -59,7 +59,7 @@
 	</nav>
 
 	<div class="background">
-		<h1>Jim Baldwin - Web Developer</h1>
+		<h1>Jim Baldwin - <br class="rwd-break">Web Developer</h1>
 		
 	</div>
 	@yield('content')
