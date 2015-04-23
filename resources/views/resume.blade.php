@@ -2,8 +2,9 @@
 
 @section('content')
 	<div class="container resume">
-<p class="western" align="center" style="margin-bottom: 0in"><font size="2" style="font-size: 11pt"><b>Jim
-Baldwin</b></font></p>
+<p class="western" align="center" style="margin-bottom: 0in"><font size="2" style="font-size: 11pt"><strong>Jim
+Baldwin</strong></font></p>
+<p class="western" align="center" style="margin-bottom: 0in"><font size="2" style="font-size: 11pt">Portland, OR</font></p>	
 <p class="western" align="center" style="margin-bottom: 0in"><font size="2" style="font-size: 11pt">503-231-3735
 home</font></p>
 <p class="western" align="center" style="margin-bottom: 0in"><font size="2" style="font-size: 11pt">503-522-0466 cell</font></p>

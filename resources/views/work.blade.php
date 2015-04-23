@@ -3,8 +3,14 @@
 @section('content')
 	<div class="container">
 		<h2>Work Samples</h2>
+		<h2 class="demo">Sites</h2>
+		<ul class="section gallery clearfix">
+			<li><a class="fancybox" rel="group" href="/images/space_hp_NatGeo_reskin.jpg"><img height="166" src="/images/space_hp_NatGeo_reskin-th.jpg" alt="Newsarama Home Page" /></a></li></a></li>
+			<li><a class="fancybox" rel="group" href="/images/newsarama.jpg"><img src="/images/newsarama-th.jpg" alt="SPACE.com Home Page" /></a></li>
+			<li><a class="fancybox" rel="group" href="/images/healthination_sidebar.jpg"><img src="/images/healthination_sidebar-th.jpg" alt="LiveScience Article Page" /></a></li>
+		</ul>
 		<h2 class="demo">PHP</h2>
-		<ul class="section">
+		<ul class="section">		
 			<li>
 				<a href="http://todo.jimbaldwin.net">TODO app in Laravel 5</a> &ndash; In progress, see todo list in app for future enhancements.
 				<ul>
