@@ -11,7 +11,7 @@
 |
 */
 
-Route::get('/', 'WelcomeController@index');
+Route::get('/', 'WelcomeController@resume');
 Route::get('/work', 'WelcomeController@work');
 Route::get('/resume', 'WelcomeController@resume');
 Route::get('/switchbuilder',function(){
