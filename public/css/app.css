@@ -6713,6 +6713,7 @@ ul.gallery {
 ul.gallery > li {
   float: left;
   margin-right: 10px;
+  margin-bottom: 10px;
 }
 @media (max-width: 768px) {
   h1 {
