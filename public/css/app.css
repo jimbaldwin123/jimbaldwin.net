@@ -6722,4 +6722,7 @@ ul.gallery > li {
   .rwd-break {
     display: inline;
   }
+  ul.gallery {
+    text-align: center;
+  }
 }
