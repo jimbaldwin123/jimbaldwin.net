@@ -6725,4 +6725,7 @@ ul.gallery > li {
   ul.gallery {
     text-align: center;
   }
+  ul.gallery img {
+    border: 1px solid black;
+  }
 }
