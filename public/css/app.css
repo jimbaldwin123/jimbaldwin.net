@@ -6715,6 +6715,9 @@ ul.gallery > li {
   margin-right: 10px;
   margin-bottom: 10px;
 }
+ul.gallery img {
+  border: 1px solid #888;
+}
 @media (max-width: 768px) {
   h1 {
     font-size: 24px;
@@ -6724,8 +6727,5 @@ ul.gallery > li {
   }
   ul.gallery {
     text-align: center;
-  }
-  ul.gallery img {
-    border: 1px solid black;
   }
 }
