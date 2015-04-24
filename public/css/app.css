@@ -6709,9 +6709,10 @@ h2.demo {
 }
 ul.gallery {
   list-style-type: none;
+  text-align: center;
 }
 ul.gallery > li {
-  float: left;
+  display: inline-block;
   margin-right: 10px;
   margin-bottom: 10px;
 }
