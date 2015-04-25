@@ -7,9 +7,10 @@ Baldwin</strong></font></p>
 <p class="western" align="center" style="margin-bottom: 0in"><font size="2" style="font-size: 11pt">Portland, OR</font></p>	
 <p class="western" align="center" style="margin-bottom: 0in"><font size="2" style="font-size: 11pt">503-231-3735
 home</font></p>
-<p class="western" aljiign="center" style="margin-bottom: 0in"><font size="2" style="font-size: 11pt">503-522-0466 cell</font></p>
+<p class="western" align="center" style="margin-bottom: 0in"><font size="2" style="font-size: 11pt">503-522-0466 cell</font></p>
 <p class="western" align="center" style="margin-bottom: 0in"><a href="https://www.linkedin.com/in/jimbaldwin123"><font size="2" style="font-size: 11pt">LinkedIn</font></a></p>
 <p class="western" align="center" style="margin-bottom: 0in"><font size="2" style="font-size: 11pt"></font></p>
+
 <p class="western" style="margin-bottom: 0in"><br>
 </p>
 <p style="margin-bottom: 0in"><font size="2" style="font-size: 10pt">Experienced
