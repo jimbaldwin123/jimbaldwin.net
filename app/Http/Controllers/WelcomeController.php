@@ -1,5 +1,5 @@
 <?php namespace App\Http\Controllers;
-
+use App\Screenshot;
 class WelcomeController extends Controller {
 
 	/*
@@ -34,7 +34,8 @@ class WelcomeController extends Controller {
 	}
 	public function work()
 	{
-		return view('work');
+		$screenshots = Screenshot::all();
+		return view('work',compact('screenshots'));
 	}
 	public function resume()
 	{
