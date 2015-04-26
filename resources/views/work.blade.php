@@ -7,7 +7,7 @@
 		<ul class="section gallery clearfix">
 		
 		@foreach($screenshots as $screenshot)
-			<li><a class="fancybox" rel="group" href="/images/{{ $screenshot->large_image }}"><img src="/images/{{ $screenshot->thumb_image }}" alt="{{ $screenshot->title }}"  title="{{ $screenshot->title }}" /></a></li></a>
+			<li><a class="fancybox" rel="group" href="/images/{{ $screenshot->large_image }}"><img height="166" src="/images/{{ $screenshot->thumb_image }}" alt="{{ $screenshot->title }}"  title="{{ $screenshot->title }}" /></a></li></a>
 		@endforeach
 		
 		</ul>
