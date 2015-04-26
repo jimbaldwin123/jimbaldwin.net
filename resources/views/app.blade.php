@@ -60,6 +60,7 @@
 
 	<div class="background">
 		<h1>Jim Baldwin - <br class="rwd-break">Web Developer</h1>
+		<h2 class="subhead">PHP &bull; SQL &bull; HTML5 &bull; CSS3 &bull; JavaScript &bull; jQuery &bull; MVC &bull; REST</h2>
 		
 	</div>
 	@yield('content')
