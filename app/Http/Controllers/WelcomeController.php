@@ -20,7 +20,11 @@ class WelcomeController extends Controller {
 	 */
 	public function __construct()
 	{
-		$this->middleware('guest');
+		// $this->middleware('guest');
+
+           $this->middleware('auth', ['only' => ['interview']]);
+	    // $this->ord = Input::get("ord");
+
 	}
 
 	/**
@@ -40,5 +44,9 @@ class WelcomeController extends Controller {
 	public function resume()
 	{
 		return view('resume');
+	}
+	public function interview()
+	{
+		return view('interview');
 	}
 }

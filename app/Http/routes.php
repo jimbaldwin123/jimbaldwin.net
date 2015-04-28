@@ -14,6 +14,8 @@
 Route::get('/', 'WelcomeController@work');
 Route::get('/work', 'WelcomeController@work');
 Route::get('/resume', 'WelcomeController@resume');
+Route::get('/interview', 'WelcomeController@interview');
+// Route::get('/interview', ['middleware' => 'auth', 'uses' => 'WelcomeController@interview']);
 Route::get('/switchbuilder',function(){
     return View::make('switchbuilder');
 });
