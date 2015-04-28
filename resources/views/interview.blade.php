@@ -14,7 +14,7 @@ home</font></p>
 <p class="western" style="margin-bottom: 0in"><br>
 </p>
 <ul>
-	<li>Interview Packet</li>
+	<li><a href="/docs/Jim_Baldwin_Interview_Packet.zip">Interview Packet</a></li>
 </ul>
 </div>
 @endsection
