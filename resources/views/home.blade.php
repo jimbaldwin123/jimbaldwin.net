@@ -9,6 +9,7 @@
 
 				<div class="panel-body">
 					You are logged in!
+					<p><a href="/interview"><strong>Continue to Interview Page</strong></a></p>
 				</div>
 			</div>
 		</div>
