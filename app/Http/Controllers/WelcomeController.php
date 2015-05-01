@@ -20,11 +20,8 @@ class WelcomeController extends Controller {
 	 */
 	public function __construct()
 	{
-		// $this->middleware('guest');
 
            $this->middleware('auth', ['only' => ['interview']]);
-	    // $this->ord = Input::get("ord");
-
 	}
 
 	/**

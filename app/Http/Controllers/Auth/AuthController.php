@@ -20,6 +20,9 @@ class AuthController extends Controller {
 
 	use AuthenticatesAndRegistersUsers;
 
+	// http://slick.pl/kb/laravel/overriding-login-and-registration-functionality-in-laravel-5/
+	protected $redirectTo = '/interview';
+	
 	/**
 	 * Create a new authentication controller instance.
 	 *
@@ -35,4 +38,14 @@ class AuthController extends Controller {
 		$this->middleware('guest', ['except' => 'getLogout']);
 	}
 
+	// turn off registration
+	public function getRegister()
+	{
+		return redirect('/');
+	}
+	
+	public function postRegister()
+	{
+		return redirect('/');
+	}
 }
