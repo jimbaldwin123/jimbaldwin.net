@@ -21,7 +21,7 @@
 		<h2 class="demo">JavaScript</h2>
 		<ul class="section">
 			<li>JSON-driven JavaScript animation &ndash; Annotated software product screen shots
-				<br>(Note: these are legacy pages outside my control, nav layout and lightbox are broken.)
+				<br>(Note: these are legacy pages outside my control, nav layout and lightbox are broken. However, page rendering from JSON works.)
 				<br>Hover over "info" arrows for callouts.
 				<ul>
 					<li><a href="http://utility2012.apcon.com/products/enterpoint.php">Animated Screen Shot 1</a></li>
