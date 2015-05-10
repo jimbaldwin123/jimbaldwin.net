@@ -11,6 +11,16 @@
 		@endforeach
 		
 		</ul>
+		<p>
+			I wrote a content management system for these sites from scratch (without any frameworks).
+			The sites had a combined 20 million page views per month, 5 million visitors.
+			The back end supported 12 editorial and 6 graphics producers, and served about 10,000
+			pages and 20,000 images.
+		</p>
+		<p>
+			I wrote a content syndication module which used various standard and custom protocols (XML, REST, JSON)
+			for inbound and outbound syndication with MSNBC, Yahoo, Fox News, US News, redOrbit, and other partners.
+		</p>			
 		<h2 class="demo">PHP</h2>
 		<ul class="section">		
 			<li>
