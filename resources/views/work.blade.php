@@ -60,8 +60,8 @@
 			<li><a href="docs/Support_Site_Screens.docx">Support Site Screens</a> &ndash; Some jQuery/AJAX functionality</li>
 			
 		</ul>
-		<ul class="section">
-			<li>
+		<h2 class="demo">&nbsp;</h2>
+		<div class="section">
 				<script>
 					window.fbAsyncInit = function() {
 					  FB.init({
@@ -85,10 +85,8 @@
 				  data-width="450"
 				  data-show-faces="true">
 				</div>				
-			</li>
-		</ul>
-
 		</div>
+
 	</div>
 
 @endsection
