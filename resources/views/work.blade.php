@@ -60,7 +60,7 @@
 			<li><a href="docs/Support_Site_Screens.docx">Support Site Screens</a> &ndash; Some jQuery/AJAX functionality</li>
 			
 		</ul>
-		<h2 class="demo">Social</h2>
+		<h2 class="demo underline"></h2>
 		<div class="section">
 				<script>
 					window.fbAsyncInit = function() {
