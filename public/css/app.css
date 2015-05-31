@@ -6692,6 +6692,7 @@ h2.demo {
   z-index: -1;
   margin: -90px 0 0 0;
   padding: 70px 0 0 50px;
+  border: 1px solid green;
   color: #fff;
 }
 .background h1 {
