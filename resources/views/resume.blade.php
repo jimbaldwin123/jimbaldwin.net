@@ -14,7 +14,7 @@ home</font></p>
 <p class="western" style="margin-bottom: 0in"><br>
 </p>
 <p style="margin-bottom: 0in"><font size="2" style="font-size: 10pt">Experienced
-Developer with proven ability to analyze and solve complex problems
+Developer, with proven ability to analyze and solve complex problems
 quickly and deliver robust, efficient solutions. Strong mentoring and
 team leadership skills. Highly experienced in working with Marketing,
 Editorial, Advertising, and Sales departments to both clarify and
