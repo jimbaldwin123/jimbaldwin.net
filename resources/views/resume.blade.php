@@ -49,6 +49,20 @@ Experience:</b></font><font size="2" style="font-size: 10pt"> </font>
 </p>
 <p class="western" style="margin-bottom: 0in"><br>
 </p>
+<p class="western" style="margin-bottom: 0in"><font size="2" style="font-size: 10pt"><b>2015-2016,
+Web Developer, PCD Group</b></font><font size="2" style="font-size: 10pt"><span style="font-weight: normal">
+- Web applications for financial services industry.<br></span></font><br>
+</p>
+
+<p class="western" style="margin-bottom: 0in"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">
+	Team member building enterprise  Alumni portal – email notifications for site registrations, webinar registrations, 
+	content management/publishing interface, extensive role-based user functionality. Maintained support sites for 
+	sales and marketing teams – marketing kits, opportunity registrations, event promotions.
+</span></font></p>
+<p class="list-western" style="margin-bottom: 0in"><br>
+</p>
+
+
 <p class="western" style="margin-bottom: 0in"><font size="2" style="font-size: 10pt"><b>2009-2015,
 Web Developer, Marketing, APCON, Inc.</b></font><font size="2" style="font-size: 10pt"><span style="font-weight: normal">
 - Recognized leader in enterprise network monitoring switches.<br></span></font><br>
