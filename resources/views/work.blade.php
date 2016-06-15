@@ -50,7 +50,8 @@
 					</li>
 				</ul>
 			</li>
-			<li><a href="/switchbuilder">jQuery/AJAX Demo - Screencast</a></li>
+			<li><a href="/switchbuilder">jQuery/AJAX logic/animation Demo - Screencast</a></li>
+			This is a sales tool for enterprise Ethernet switch configuration. The app recommends a blade configuration based<br> on customer need, and generates an on-screen image and personalized PDF.
 		</ul>
 		<h2 class="demo">Documentation</h2>
 		<ul class="section">

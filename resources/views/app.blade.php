@@ -5,7 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>PHP Developer, Portland, Or | LAMP Stack Web Developer | Jim Baldwin</title>
-	<meta name="description" content="LAMP Stack Web Developer in Portland, OR. Web Sites, MVC, REST" >
+	<meta name="description" content="LAMP Stack Web Developer in Portland, OR. Web Sites, Laravel, APIs, CMS" >
 	<link href="{{ asset('/css/app.css') }}" rel="stylesheet">
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<style type="text/css">
@@ -63,7 +63,7 @@
 
 	<div class="background">
 		<h1>Jim Baldwin - <br class="rwd-break">Web Developer</h1>
-		<h2 class="subhead">PHP &bull; SQL &bull; HTML5 &bull; CSS3 &bull; JavaScript &bull; jQuery &bull; MVC &bull; REST</h2>
+		<h2 class="subhead">PHP &bull; SQL &bull; HTML5 &bull; CSS3 &bull; JavaScript &bull; jQuery &bull; MVC &bull; REST APIs</h2>
 		
 	</div>
 	@yield('content')
