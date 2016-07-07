@@ -68,9 +68,12 @@ Web Developer, PCD Group</b></font><font size="2" style="font-size: 10pt"><span 
 </p>
 
 <p class="western" style="margin-bottom: 0in"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">
-	Team member building enterprise  Alumni portal – email notifications for site registrations, webinar registrations, 
-	content management/publishing interface, extensive role-based user functionality. Maintained support sites for 
-	sales and marketing teams – marketing kits, opportunity registrations, event promotions.
+	<ul>
+	<li>Team member building enterprise  Alumni portal – email notifications for site registrations, webinar registrations, 
+	content management/publishing interface, extensive role-based user functionality.</li>
+	<li>Maintained support sites for 
+	sales and marketing teams – marketing kits, opportunity registrations, event promotions.</li>
+	</ul>
 </span></font></p>
 <p class="list-western" style="margin-bottom: 0in"><br>
 </p>
@@ -80,14 +83,19 @@ Web Developer, PCD Group</b></font><font size="2" style="font-size: 10pt"><span 
 Web Developer, Marketing, APCON, Inc.</b></font><font size="2" style="font-size: 10pt"><span style="font-weight: normal">
 - Recognized leader in enterprise network monitoring switches.<br></span></font><br>
 </p>
-<p class="western" style="margin-bottom: 0in"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">Implemented
-redesign of public-facing Web site and blog in PHP with CodeIgniter,
-SEO optimization, Social media integration. Rebuilt and maintained
-customer support site, built and maintained HR information system,
-built and maintained software build-tracking system, sales
-opportunity registration system. Implemented email marketing system.
-Automated all reporting for main site, support site, and email
-campaigns. Automated lead generation sync with Sugar CRM.</span></font></p>
+<p class="western" style="margin-bottom: 0in"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">
+<ul>
+<li>Implemented redesign of public-facing Web site and blog in PHP with CodeIgniter
+<li>SEO optimization, Social media integration.</li> 
+<li>Rebuilt and maintained customer support site</li>
+<li>Built and maintained HR information system</li>
+<li>Built and maintained software build-tracking system</li>
+<li>Sales opportunity registration system with role-based access control, complex workflow</li>
+<li>Implemented lead generation and management system 
+<li>Automated integration of lead generation with email marketing system and Sugar CRM</li>
+<li>Automated all analytics and lead activity reporting for main site, support site, and email campaigns.</li>
+</ul>
+</span></font></p>
 <p class="list-western" style="margin-bottom: 0in"><br>
 </p>
 <p class="western" style="margin-bottom: 0in"><font size="2" style="font-size: 10pt"><b>2000-2008
