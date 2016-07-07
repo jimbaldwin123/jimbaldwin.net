@@ -87,7 +87,7 @@ Web Developer, Marketing, APCON, Inc.</b></font><font size="2" style="font-size:
 <ul>
 <li>Implemented redesign of public-facing Web site and blog in PHP with CodeIgniter
 <li>SEO optimization, Social media integration.</li> 
-<li>Rebuilt and maintained customer support site</li>
+<li>Rebuilt and maintained customer support site &ndash; knowledgebase, firmware downloads, marketing materials library</li>
 <li>Built and maintained HR information system</li>
 <li>Built and maintained software build-tracking system</li>
 <li>Sales opportunity registration system with role-based access control, complex workflow</li>
