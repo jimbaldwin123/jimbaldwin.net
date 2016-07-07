@@ -51,11 +51,11 @@ Web Developer, McClain Concepts</b></font>
 </p>
 
 <p class="western" style="margin-bottom: 0in"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">
-Team member building sales funnel platform in Laravel, using Atlassian project management suite.
-Created unified API wrapper for 5 different email marketing providers (MailChimp, Autopilot, Maropost, iContact, MadMiMi).
-Replaced Stripe billing integration with Authorize.net
-Implemented Single-sign-on for multiple web sites
-Implemented APIs for cross-site reporting.
+<li>Team member building sales funnel platform in Laravel, using Atlassian project management suite.</li>
+<li>Created unified API wrapper for 5 different email marketing providers (MailChimp, Autopilot, Maropost, iContact, MadMiMi).</li>
+<li>Replaced Stripe billing integration with Authorize.net</li>
+<li>Implemented Single-sign-on for multiple web sites</li>
+<li>Implemented APIs for cross-site reporting.</li>
 </span></font></p>
 
 <p class="western" style="margin-bottom: 0in"><br>
