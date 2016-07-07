@@ -27,12 +27,8 @@ requirements and goals. </font>
 </p>
 <p class="western" style="margin-bottom: 0in"><font size="2" style="font-size: 10pt"><b>Language/Technology
 Proficiency:</b></font></p>
-<p class="western" style="margin-bottom: 0in"><font size="2" style="font-size: 10pt">PHP,
-MVC frameworks (Cake, CodeIgniter, Laravel), SQL,Python, Perl, REST
-APIs, HTML, CSS, Git, SVN, JavaScript, jQuery, MailChimp API, Google
-Analytics. Familiarity with SEO best practices. MS Access and MS
-Office VBA. Some experience with ASP, Visual Basic, MS SQL Server,
-Drupal. Volusion and Magento integration. SugarCRM.</font></p>
+<p class="western" style="margin-bottom: 0in"><font size="2" style="font-size: 10pt">
+PHP, MVC frameworks (Laravel, CodeIgniter, Cake), SQL, Atlassian project management suite, HTML5, CSS3, JavaScript, jQuery, Numerous email marketing platform APIs, Credit Card APIs, Google Analytics. Expert in SEO best practices. MS Access and MS Office VBA. Some experience with Angular JS, ASP, Visual Basic, MS SQL Server, Drupal. SugarCRM.</font></p>
 <p class="western" style="margin-bottom: 0in"><br>
 </p>
 <p class="western" style="margin-bottom: 0in"><font size="2" style="font-size: 10pt"><b>Skills:</b></font></p>
@@ -47,6 +43,21 @@ Web content syndication.</font></p>
 <p class="western" style="margin-bottom: 0in"><font size="2" style="font-size: 10pt"><b>Professional
 Experience:</b></font><font size="2" style="font-size: 10pt"> </font>
 </p>
+
+<p class="western" style="margin-bottom: 0in"><br>
+</p>
+<p class="western" style="margin-bottom: 0in"><font size="2" style="font-size: 10pt"><b>March2016 - Present,
+Web Developer, McClain Concepts</b></font>
+</p>
+
+<p class="western" style="margin-bottom: 0in"><font size="2" style="font-size: 10pt"><span style="font-weight: normal">
+Team member building sales funnel platform in Laravel, using Atlassian project management suite.
+Created unified API wrapper for 5 different email marketing providers (MailChimp, Autopilot, Maropost, iContact, MadMiMi).
+Replaced Stripe billing integration with Authorize.net
+Implemented Single-sign-on for multiple web sites
+Implemented APIs for cross-site reporting.
+</span></font></p>
+
 <p class="western" style="margin-bottom: 0in"><br>
 </p>
 <p class="western" style="margin-bottom: 0in"><font size="2" style="font-size: 10pt"><b>2015-2016,
