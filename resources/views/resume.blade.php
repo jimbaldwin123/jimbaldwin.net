@@ -26,7 +26,7 @@ requirements and goals. </font>
 <p class="western" style="margin-bottom: 0in"><font size="2" style="font-size: 10pt"><b>Language/Technology
 Proficiency:</b></font></p>
 <p class="western" style="margin-bottom: 0in"><font size="2" style="font-size: 10pt">
-PHP, MVC frameworks (Laravel, CodeIgniter, Cake), SQL, Atlassian project management suite, HTML5, CSS3, JavaScript, jQuery, Numerous email marketing platform APIs, Credit Card APIs, Google Analytics. Experience in SEO best practices.</font></p>
+PHP, MVC frameworks (Laravel, CodeIgniter, Cake), SQL, Atlassian project management suite, HTML5, CSS3, JavaScript, jQuery, Numerous email marketing platform APIs, Credit Card APIs, Google Analytics. Experience in SEO best practices.</p>
 <p class="western" style="margin-bottom: 0in"><br>
 </p>
 <p class="western" style="margin-bottom: 0in"><font size="2" style="font-size: 10pt"><b>Skills:</b></font></p>

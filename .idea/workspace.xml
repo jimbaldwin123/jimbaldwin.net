@@ -46,8 +46,8 @@
       <file leaf-file-name="resume.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/resume.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="716">
-              <caret line="55" column="62" selection-start-line="55" selection-start-column="62" selection-end-line="55" selection-end-column="62" />
+            <state relative-caret-position="311">
+              <caret line="28" column="210" selection-start-line="28" selection-start-column="210" selection-end-line="28" selection-end-column="210" />
               <folding />
             </state>
           </provider>
@@ -185,12 +185,12 @@
       <option name="presentableId" value="Default" />
       <updated>1465997333175</updated>
       <workItem from="1465997334818" duration="1128000" />
-      <workItem from="1468677175889" duration="101000" />
+      <workItem from="1468677175889" duration="568000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1229000" />
+    <option name="totallyTimeSpent" value="1696000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1215" height="1000" extended-state="6" />
@@ -266,8 +266,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/resume.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="716">
-          <caret line="55" column="62" selection-start-line="55" selection-start-column="62" selection-end-line="55" selection-end-column="62" />
+        <state relative-caret-position="311">
+          <caret line="28" column="210" selection-start-line="28" selection-start-column="210" selection-end-line="28" selection-end-column="210" />
           <folding />
         </state>
       </provider>
