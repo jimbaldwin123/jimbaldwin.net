@@ -18,7 +18,7 @@ class Kernel extends HttpKernel {
 		'App\Http\Middleware\VerifyCsrfToken',
 
         // appending custom middleware
-        'MyApp\Http\Middleware\HttpsProtocol'
+        'App\Http\Middleware\HttpsProtocol'
     ];
 
 	/**
