@@ -7,6 +7,7 @@ class VerifyCsrfToken extends BaseVerifier {
 
     protected $except = [
         '/sgsp',
+        'sgsp',
     ];
     /**
      * @param \Illuminate\Http\Request $request
