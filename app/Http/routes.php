@@ -20,7 +20,7 @@ Route::get('/switchbuilder',function(){
     return View::make('switchbuilder');
 });
 
-Route::post('/sgsp','SilentPostController@sgsp');
+Route::post('/sgsp','SilentPostController@processSgsp');
 Route::get('home', 'HomeController@index');
 
 Route::controllers([
