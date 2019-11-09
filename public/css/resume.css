@@ -1,0 +1,9 @@
+		@page { margin-right: 0.79in; margin-top: 0.5in; margin-bottom: 0.5in }
+		p { margin-bottom: 0.08in; direction: ltr; color: #000000; text-align: left; widows: 0; orphans: 0 }
+		p.western { font-family: "Helvetica", "Arial", sans-serif; font-size: 12pt; so-language: en-US }
+		p.cjk { font-family: "Helvetica", "Arial", sans-serif; font-size: 12pt; so-language: zxx }
+		p.ctl { font-family: "Helvetica", "Arial", sans-serif; font-size: 10pt; so-language: zxx }
+		p.list-western { font-family: "Helvetica", "Arial", sans-serif; font-size: 12pt; so-language: en-US }
+		p.list-cjk { font-family: "Helvetica", "Arial", sans-serif; font-size: 12pt; so-language: zxx }
+		p.list-ctl { font-family: "Helvetica", "Arial", sans-serif; font-size: 10pt; so-language: zxx }
+		a:link { so-language: zxx }
