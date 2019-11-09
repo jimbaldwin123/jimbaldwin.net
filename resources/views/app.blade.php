@@ -35,7 +35,7 @@
 
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
-                <li class="test"><a href="{{ url('/') }}">Home</a></li>
+                <li class="test"><a href="{{ url('/') }}">Home -</a></li>
                 <li><a href="{{ url('/work') }}">Work Samples</a></li>
                 <li><a href="{{ url('/resume') }}">Resume</a></li>
                 @if(Auth::check())
