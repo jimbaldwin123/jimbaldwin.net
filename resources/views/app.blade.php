@@ -63,7 +63,9 @@
 
 <div class="background">
     <h1>Jim Baldwin - <br class="rwd-break">Web Developer</h1>
-    <h2 class="subhead">Laravel &bull; PHP &bull; SQL &bull; HTML5 &bull; CSS3 &bull; JavaScript &bull; jQuery &bull; MVC &bull; REST APIs</h2>
+    <h2 class="subhead">Laravel &bull; Web Apps &bull; APIs &bull; LAMP Stack &bull; PHP &bull; SQL &bull; HTML5</h2>
+
+
 
 </div>
 @yield('content')
